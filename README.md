@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a hexapod robot using ros2 and a raspberry pi<br>currently learning ros2 with c++<br>I have good knowledge about robotics and decent knowledge about cyber security attacks<br>I like cats :)
+I recently created a hexapod  using ros2 and a raspberry pi<br>currently learning ros2 with c++<br>I have good knowledge about robotics and decent knowledge about cyber security attacks<br>I like cats :)
 
 
 ## 🌐 Socials:
